@@ -28,7 +28,7 @@ export default function Home() {
         </div>
       </div>
 
-      <h1 className="text-8xl">Hello Bogor!</h1>
+      <h1 className="text-8xl">Hello World!</h1>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <a
